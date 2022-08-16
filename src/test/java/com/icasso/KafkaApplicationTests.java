@@ -1,10 +1,10 @@
-package com.example.kafkaspringboot;
+package com.icasso;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class KafkaSpringBootApplicationTests {
+class KafkaApplicationTests {
 
     @Test
     void contextLoads() {
